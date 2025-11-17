@@ -1,0 +1,5 @@
+{
+  "name": "Dollar Exchange Rate Chart",
+  "description": "A web application that displays the daily USD to KRW exchange rate for the last month in a bar chart format for easy viewing.",
+  "requestFramePermissions": []
+}
